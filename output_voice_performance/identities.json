@@ -1,0 +1,34 @@
+[
+  {
+    "id": "voice_id_1784516336722",
+    "name": "هوية حامد النمذجية",
+    "timbreEmbedding": "vector_emb_1784516336722_male",
+    "sampleAudioPath": "",
+    "gender": "male",
+    "basePitchHz": 120
+  },
+  {
+    "id": "voice_id_1784516337837",
+    "name": "هوية حامد النمذجية",
+    "timbreEmbedding": "vector_emb_1784516337837_male",
+    "sampleAudioPath": "",
+    "gender": "male",
+    "basePitchHz": 120
+  },
+  {
+    "id": "voice_id_1784516338751",
+    "name": "هوية حامد النمذجية",
+    "timbreEmbedding": "vector_emb_1784516338751_male",
+    "sampleAudioPath": "",
+    "gender": "male",
+    "basePitchHz": 120
+  },
+  {
+    "id": "voice_id_1784516339565",
+    "name": "هوية حامد النمذجية",
+    "timbreEmbedding": "vector_emb_1784516339565_male",
+    "sampleAudioPath": "",
+    "gender": "male",
+    "basePitchHz": 120
+  }
+]
