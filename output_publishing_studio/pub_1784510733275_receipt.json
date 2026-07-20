@@ -1,0 +1,15 @@
+{
+  "postId": "pub_1784510733275",
+  "title": "إطلاق عطر نايرو استوديو الصيفي",
+  "caption": "تدري وش العطر اللي إذا رشيته الصبح يظل فوّاح لين آخر الليل؟ #نايرو_استوديو",
+  "mediaPath": "C:\\AIProjects\\Nayro-AI-OS-Clean\\output_video_studio\\avatar_longcat-avatar_1784510733274.mp4",
+  "targetPlatforms": [
+    "tiktok",
+    "instagram",
+    "x",
+    "youtube"
+  ],
+  "scheduledTime": "IMMEDIATE_DISPATCH",
+  "engineUsed": "Postiz Engine API (postiz-open-source)",
+  "timestamp": "2026-07-20T01:25:33.275Z"
+}
